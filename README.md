@@ -1,2 +1,2 @@
-# Google-glass
-Projeto feito no decorrer do curso de HTML, CSS E JS.
+# Google-Glass
+Site criado através de aulas de um curso de HTML5, CSS E JS
